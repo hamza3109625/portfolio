@@ -10,7 +10,7 @@ export function AboutSection() {
           <Reveal className="order-2 md:order-1">
             <div className="relative aspect-[4/5] w-full overflow-hidden rounded-2xl bg-muted">
               <Image
-                src="/portrait.png"
+                src="/portrait.jpeg"
                 alt={`Portrait of ${site.name}`}
                 fill
                 sizes="(max-width: 768px) 100vw, 40vw"
